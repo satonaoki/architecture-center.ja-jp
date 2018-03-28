@@ -58,7 +58,7 @@
           href: virtual-machines-linux/multi-vm.md
         - name: n 層アプリケーション
           href: virtual-machines-linux/n-tier.md
-        - name: 複数地域のアプリケーション
+        - name: 複数リージョンのアプリケーション
           href: virtual-machines-linux/multi-region-application.md
     - name: VM ワークロード (Windows)
       href: virtual-machines-windows/index.md
@@ -69,7 +69,7 @@
           href: virtual-machines-windows/multi-vm.md
         - name: n 層アプリケーション
           href: virtual-machines-windows/n-tier.md
-        - name: 複数地域のアプリケーション
+        - name: 複数リージョンのアプリケーション
           href: virtual-machines-windows/multi-region-application.md
     - name: Jenkins サーバー
       href: jenkins/index.md
